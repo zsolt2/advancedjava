@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <name>Peti</name>
+    <points>10</points>
+  </row>
+  <row>
+    <name>Kati</name>
+    <points>23</points>
+  </row>
+  <row>
+    <name>Tomi</name>
+    <points>40</points>
+  </row>
+</root>

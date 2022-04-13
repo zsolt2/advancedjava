@@ -1,0 +1,8 @@
+
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“–ış8¢ÈÂè0
+H
+java:S1068"&Remove this unused "in" private field.(ï¼Œ­ûÿÿÿÿ8ö½ßè0
+I
+java:S1068"'Remove this unused "out" private field.(Ö˜Ğ—ûÿÿÿÿ8ù½ßè0
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(áÚë©ÿÿÿÿÿ

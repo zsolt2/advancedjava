@@ -1,0 +1,9 @@
+
+x	java:S116"cRename this field "map_to_aggregate_adapter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã¨é´
+H
+java:S1172"-Remove this unused method parameter "stream".(¾‘Ñãúÿÿÿÿ
+C	java:S108")Either remove or fill this block of code.(¡»¢üùÿÿÿÿ
+R
+java:S1068"<Remove this unused "map_to_aggregate_adapter" private field.(ã¨é´
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾‘Ñãúÿÿÿÿ
+b	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(µØ’Ú

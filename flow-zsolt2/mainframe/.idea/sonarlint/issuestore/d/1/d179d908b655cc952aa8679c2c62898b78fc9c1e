@@ -1,0 +1,14 @@
+
+Z
+java:S2147&"DCombine this catch with the one at line 36, which has the same body.(ï­£Ä
+P
+java:S1117":Rename "reader" which hides the field declared at line 16.(¡žº™
+j
+java:S5850"TGroup parts of the regex together to make the intended operator precedence explicit.(©³‰Ì
+W
+java:S1126."AReplace this if-then-else statement by a single return statement.(¹ŒÇ¦
+@
+java:S1068"*Remove this unused "reader" private field.(ú§Âµ
+A
+java:S1068"&Remove this unused "in" private field.(¼¦·êùÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(êêë±ýÿÿÿÿ
