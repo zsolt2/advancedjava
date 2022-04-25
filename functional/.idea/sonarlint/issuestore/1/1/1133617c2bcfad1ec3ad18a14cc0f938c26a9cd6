@@ -1,0 +1,69 @@
+
+\
+java:S1854:"?Remove this useless assignment to local variable "lengthList2".(µÍ‹·8Öş Ëˆ0
+[
+java:S18542">Remove this useless assignment to local variable "lengthList".(Ñª÷ğ8×ş Ëˆ0
+W
+java:S1854":Remove this useless assignment to local variable "value5".(áÆŞÑ8Øş Ëˆ0
+\
+java:S1854":Remove this useless assignment to local variable "value4".(Ë°ıÜúÿÿÿÿ8Ùş Ëˆ0
+\
+java:S1854":Remove this useless assignment to local variable "value3".(ÛŞ˜¨ÿÿÿÿÿ8Úş Ëˆ0
+W
+java:S1854":Remove this useless assignment to local variable "value2".(ıõÔ8Úş Ëˆ0
+[
+java:S1854"9Remove this useless assignment to local variable "value".(À¸¨àøÿÿÿÿ8Ûş Ëˆ0
+M
+java:S1611"0Remove the parentheses around the "aa" parameter(êÕÓ—8ğş Ëˆ0
+p
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(êÕÓ—8ñş Ëˆ0
+X
+java:S1612";Replace this lambda with method reference 'String::length'.(êÕÓ—8úş Ëˆ0
+L
+java:S1481"*Remove this unused "value" local variable.(À¸¨àøÿÿÿÿ8ÿ Ëˆ0
+H
+java:S1481"+Remove this unused "value2" local variable.(ıõÔ8„ÿ Ëˆ0
+]
+java:S1612";Replace this lambda with method reference 'String::length'.(ÛŞ˜¨ÿÿÿÿÿ8†ÿ Ëˆ0
+M
+java:S1481"+Remove this unused "value3" local variable.(ÛŞ˜¨ÿÿÿÿÿ8‡ÿ Ëˆ0
+M
+java:S1481"+Remove this unused "value4" local variable.(Ë°ıÜúÿÿÿÿ8‰ÿ Ëˆ0
+H
+java:S1481"+Remove this unused "value5" local variable.(áÆŞÑ8Œÿ Ëˆ0
+~
+java:S4276"\Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Integer>'(”Ê²ùÿÿÿÿ8ÿ Ëˆ0
+u
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(“ÅùÃûÿÿÿÿ8–ÿ Ëˆ0
+T
+java:S1611 "2Remove the parentheses around the "data" parameter(†¤ø®ÿÿÿÿÿ8™ÿ Ëˆ0
+b
+java:S1612 "@Replace this lambda with method reference 'System.out::println'.(†¤ø®ÿÿÿÿÿ8šÿ Ëˆ0
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(†¤ø®ÿÿÿÿÿ8›ÿ Ëˆ0
+]
+java:S1612!"@Replace this lambda with method reference 'System.out::println'.(ŸµÌŸ8ÿ Ëˆ0
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(ŸµÌŸ8Ÿÿ Ëˆ0
+X
+java:S16123";Replace this lambda with method reference 'String::length'.(·ì™ä8¬ÿ Ëˆ0
+L
+java:S14812"/Remove this unused "lengthList" local variable.(Ñª÷ğ8¯ÿ Ëˆ0
+]	java:S1256"<This block of commented-out lines of code should be removed.(‚›ìœùÿÿÿÿ8°ÿ Ëˆ0
+]
+java:S16129";Replace this lambda with method reference 'String::length'.(ÑÀÍ„ıÿÿÿÿ8±ÿ Ëˆ0
+M
+java:S1481:"0Remove this unused "lengthList2" local variable.(µÍ‹·8µÿ Ëˆ0
+x
+java:S4276Q"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(ÙÁøşÿÿÿÿ8¾ÿ Ëˆ0
+Z	java:S106S"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8Àÿ Ëˆ0
+Z	java:S106X"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8Ãÿ Ëˆ0
+v
+java:S4276["TRefactor this code to use the more specialised Functional Interface 'DoubleSupplier'(Ú‰÷¾ÿÿÿÿÿ8Åÿ Ëˆ0
+Z	java:S106]"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8Çÿ Ëˆ0
+q
+java:S4276`"TRefactor this code to use the more specialised Functional Interface 'DoubleConsumer'(œÖæ™8Éÿ Ëˆ0
+U	java:S106f"9Replace this use of System.out or System.err by a logger.(¥Û²à8Ìÿ Ëˆ0
+U	java:S106h"9Replace this use of System.out or System.err by a logger.(¡Õ×Û8Îÿ Ëˆ0
+U	java:S106n"9Replace this use of System.out or System.err by a logger.(¯ô¢ô8Ğÿ Ëˆ0
+H
+java:S1144M"&Remove this unused private "v" method.(Ã§Õİşÿÿÿÿ8Òÿ Ëˆ0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(í¶¤í8Ûÿ Ëˆ0

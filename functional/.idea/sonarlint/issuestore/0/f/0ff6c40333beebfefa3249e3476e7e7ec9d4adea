@@ -1,0 +1,9 @@
+
+J
+java:S1172"(Remove this unused method parameter "a".(ÖõÇÈøÿÿÿÿ8¨ù Ëˆ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¸ëæ¾üÿÿÿÿ8Æù Ëˆ0
+Q
+java:S1172"/Remove these unused method parameters "a", "b".(¨‹²÷ûÿÿÿÿ8Òù Ëˆ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(€ñ®Ø8Öù Ëˆ0
+G
+java:S1068"%Remove this unused "a" private field.(Ş‹®øÿÿÿÿ8Şù Ëˆ0
